@@ -25,6 +25,7 @@ Please all the credit should be attributed to [original *Hexo* version](https://
 ## Summary
 
 - [General](#general)
+- [General](#general)
 - [Features](#features)
 - [Quick start](#quick-start)
 - [Demo](#demo)
